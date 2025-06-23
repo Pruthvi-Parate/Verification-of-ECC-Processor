@@ -1,1 +1,1 @@
-# Verification-of-ECC-Processor
+# Coverage Driven Verification of ECC Processor
